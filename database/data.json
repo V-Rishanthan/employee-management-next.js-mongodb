@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Dean Lych",
+    "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+    "email": "deanlych@gmail.com",
+    "salary": "25000",
+    "date": "2022-06-08",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Johnson",
+    "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+    "email": "sarah.johnson@gmail.com",
+    "salary": "32000",
+    "date": "2022-08-15",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "name": "Michael Brown",
+    "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+    "email": "michael.brown@gmail.com",
+    "salary": "28000",
+    "date": "2021-12-01",
+    "status": "Inactive"
+  },
+  {
+    "id": 4,
+    "name": "Nisha Perera",
+    "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
+    "email": "nisha.perera@gmail.com",
+    "salary": "30000",
+    "date": "2023-01-20",
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "name": "Kamal Jayasinghe",
+    "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+    "email": "kamal.j@gmail.com",
+    "salary": "40000",
+    "date": "2020-09-10",
+    "status": "Active"
+  },
+  {
+    "id": 6,
+    "name": "Ishara Wijesinghe",
+    "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "email": "ishara.w@gmail.com",
+    "salary": "27000",
+    "date": "2022-11-05",
+    "status": "Inactive"
+  }
+]
