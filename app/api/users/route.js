@@ -1,5 +1,5 @@
 import connectMongo from "@/database/conn";
-import { getUsers, postUser, putUser, deleteUser } from "@/database/controller";
+import { getUser, getUsers, postUser, putUser, deleteUser } from "@/database/controller";
 import { NextResponse } from "next/server";
 
 
@@ -14,9 +14,12 @@ export async function GET(request) {
         }
         return NextResponse.json(users);
     } catch (error) {
+        console.error("API GET ERROR:", error);
         return NextResponse.json({ error: "Error While Fetching Data" }, { status: 404 });
     }
 }
+
+
 
 // POST http://localhost:3000/api/users
 export async function POST(request) {
